@@ -1,0 +1,1 @@
+k = int(input("Nhập số bạn mong muốn: "))
