@@ -31,8 +31,6 @@ I will update as soon as posible
 
 ## Badges
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
 [![Building Pass](https://img.shields.io/badge/Building-pass-green)]()
 
 [![Code Python](https://img.shields.io/badge/Code-python-yellow)]()
